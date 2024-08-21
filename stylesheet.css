@@ -1,0 +1,29 @@
+body {
+    margin-top: -5px;
+}
+
+img {
+    width: 100%;
+}
+/*header*/
+h1 {
+    border: 2px solid black;
+    text-align: center;
+}
+
+/*Navbar*/
+
+
+/*Main content section*/
+
+
+/*left side info section*/
+.info {
+    border-bottom: 1px solid black;
+}
+
+/*Right side info section*/
+#fb-feed {
+    width: 100%;
+    border: 2px solid black;
+}
