@@ -1,29 +1,53 @@
 body {
-    margin-top: -5px;
+    margin: 0px;
 }
 
 img {
     width: 100%;
 }
 /*header*/
+#head-div {
+    background-color: #f6fb7a;
+    margin-top: -21px;
+}
 h1 {
     border: 2px solid black;
     text-align: center;
 }
 
 /*Navbar*/
+#nav-list {
+    list-style: none;
+    margin-left: -10px;
+    background-color: #b4e380;
+    margin-top: -22px;
+}
 
+.list {
+    margin: 10px;
+}
 
 /*Main content section*/
-
+h3 {
+    text-align: center;
+}
 
 /*left side info section*/
 .info {
     border-bottom: 1px solid black;
+    padding: 5px;
+    background-color: #88d66c;
 }
 
 /*Right side info section*/
 #fb-feed {
     width: 100%;
     border: 2px solid black;
+}
+
+/*footer*/
+footer {
+    background-color: #73bba3;
+    margin-top: -20px;
+    margin-bottom: -20px;
 }
